@@ -3,7 +3,8 @@ import java.text.*;
 import java.util.*;
 public class StudentList {
 	public static void main(String[] args) {
-
+        //STEP#1. Update code style for better consistancy
+    
 //		Check arguments
 		if(args[0].equals("a")) {
 			System.out.println("Loading data ...");			
