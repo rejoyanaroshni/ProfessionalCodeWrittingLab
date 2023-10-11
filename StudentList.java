@@ -4,7 +4,7 @@ import java.util.*;
 public class StudentList {
 	public static void main(String[] args) {
         //STEP#1. Update code style for better consistancy
-        
+        //STEP#2.application now terminates early if the number of arguments passed into it is wrong,fix it
 
 //		Check arguments
 		if(args[0].equals("a")) {
