@@ -6,6 +6,7 @@ public class StudentList {
         //STEP#1. Update code style for better consistancy
         //STEP#2.application now terminates early if the number of arguments passed into it is wrong,fix it
        //STEP#3.makes improvments to variable names
+       //STEp#4.remove temporary variables
 //		Check arguments
 		if(args[0].equals("a")) {
 			System.out.println("Loading data ...");			
